@@ -1,0 +1,18 @@
+﻿@using(Html.BeginForm()){
+    <p>
+        Enter First Number <br />
+        @Html.TextBox("txtnum1")<br />
+    </p>
+    <p>
+        Enter Second Number <br />
+        @Html.TextBox("txtnum2")
+    </p>
+
+    <br />
+
+    <p>
+        <input type="submit" name="btnSubmit" value="Addition" />
+    </p>
+
+}
+<p>@ViewBag.data</p>
