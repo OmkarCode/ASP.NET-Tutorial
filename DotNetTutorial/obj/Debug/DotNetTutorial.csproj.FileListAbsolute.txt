@@ -1,0 +1,7 @@
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\bin\Debug\DotNetTutorial.exe.config
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\bin\Debug\DotNetTutorial.exe
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\bin\Debug\DotNetTutorial.pdb
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\obj\Debug\DotNetTutorial.csproj.AssemblyReference.cache
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\obj\Debug\DotNetTutorial.csproj.CoreCompileInputs.cache
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\obj\Debug\DotNetTutorial.exe
+C:\Users\Omkar Chauhan\source\repos\DotNetTutorial\DotNetTutorial\obj\Debug\DotNetTutorial.pdb
